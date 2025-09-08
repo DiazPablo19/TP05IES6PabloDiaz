@@ -1,4 +1,4 @@
-package model;
+package ejercicio05.model;
 import java.time.LocalDate;
 import java.time.Period;
 // clase java denominada persona
